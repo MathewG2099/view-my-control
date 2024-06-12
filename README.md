@@ -1,7 +1,5 @@
 # view-my-control
 
-##### Note: The repository name is meant to reflect the name of the University of Toronto's Module (14) name convetion and 'not' the name of the Chess Blog itself.
-
 ## Table of Contents:
 - [Overview](#Overview)
 - [The Challenge](#The-Challenge)
