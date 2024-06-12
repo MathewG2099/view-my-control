@@ -96,7 +96,6 @@ Open the cloned (or downloaded) repository in any source code editor.
 - Handlebars.js: [4.7.6](https://www.npmjs.com/package/handlebars)
 - Node MySql2: [2.3.3](https://www.npmjs.com/package/mysql2)
 - Sequelize: [6.29.3](https://www.npmjs.com/package/sequelize)
-- License Badge: [Shields.io](https://shields.io/)
 - Visual Studio Code: [Website](https://code.visualstudio.com/)
 
 ## What I Learned:
@@ -109,3 +108,4 @@ Open the cloned (or downloaded) repository in any source code editor.
 2. Editing and deleting comments.
 3. User profile pages.
 4. Social media integration for sharing posts.
+   please let me know details for the future 
